@@ -3,7 +3,7 @@
 let user = {
     name: "alI",
     age: 12,
-    isAdmin: ture,
+    isAdmin: true,
 };
 
 console.log(typeof user)
