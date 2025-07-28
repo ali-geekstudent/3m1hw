@@ -1,7 +1,7 @@
 // task1
 
 let user = {
-    name: "salohiddin",
+    name: "alI",
     age: 12,
     isAdmin: ture,
 };
